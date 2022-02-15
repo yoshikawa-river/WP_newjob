@@ -1,3 +1,4 @@
+
 /*
 Theme Name: Sydney
 Theme URI: https://athemes.com/theme/sydney
@@ -1304,6 +1305,11 @@ Header
 	 .bottom-header-inner {
 		 padding-top: 15px;
 		 padding-bottom: 15px;
+
+		 /***************
+		 ナビゲーションバー非表示
+		  ***************/
+		  display: none;
 	}
 	 .header-item {
 		 margin-right: 25px;
