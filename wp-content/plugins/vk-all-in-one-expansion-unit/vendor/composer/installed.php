@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => '9.72.0.0',
+        'version' => '9.72.0.0',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '764c05844557bd24ab38cacce882e8cc107c5b39',
+        'name' => 'vektor-inc/vk-all-in-one-expansion-unit',
+        'dev' => false,
+    ),
+    'versions' => array(
+        'vektor-inc/vk-all-in-one-expansion-unit' => array(
+            'pretty_version' => '9.72.0.0',
+            'version' => '9.72.0.0',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '764c05844557bd24ab38cacce882e8cc107c5b39',
+            'dev_requirement' => false,
+        ),
+        'vektor-inc/vk-breadcrumb' => array(
+            'pretty_version' => '0.0.4',
+            'version' => '0.0.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../vektor-inc/vk-breadcrumb',
+            'aliases' => array(),
+            'reference' => 'd323e0597729824532d21795f1a986dbde89ab4e',
+            'dev_requirement' => false,
+        ),
+        'vektor-inc/vk-helpers' => array(
+            'pretty_version' => '0.0.2',
+            'version' => '0.0.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../vektor-inc/vk-helpers',
+            'aliases' => array(),
+            'reference' => '320155b9df7f9f57a889e144dd8b379184ac15ec',
+            'dev_requirement' => false,
+        ),
+    ),
+);
