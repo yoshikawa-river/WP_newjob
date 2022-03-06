@@ -8,4 +8,5 @@ function theme_enqueue_styles() {
 }
 
 get_template_part('lib/login');
-?>
+get_template_part('lib/form');
+get_template_part('lib/post');
