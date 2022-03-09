@@ -35,7 +35,4 @@
 		?>
 	</div><!-- .entry-post -->
 
-	<footer class="entry-footer">
-		<?php sydney_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
