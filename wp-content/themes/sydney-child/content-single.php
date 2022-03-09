@@ -48,10 +48,6 @@ $single_post_meta_position		= get_theme_mod( 'single_post_meta_position', 'below
 		?>
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<?php sydney_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
-
 	<?php do_action('sydney_inside_bottom_post'); ?>
 
 </article><!-- #post-## -->
